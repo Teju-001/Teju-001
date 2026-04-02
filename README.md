@@ -1,5 +1,5 @@
 # The name is Victoria Tejumola Adeniran, but the game is insights 😉.
-## Data Storyteller. Business Analyst by. Strategic Communicator.
+## Data Storyteller. Business Analyst. Strategic Communicator.
 When most people see a spreadsheet and a grid, all I see is a narrative waiting for a narrator. I am a **Data Analyst** with a heavy lean towards **SQL** and a background in professional**Writing and Communicatiom**. I don't just "run queries" I investigate. I find the "why" behind the "what", and then I use my writing talent to translate those technical whispers into a corporate shout.
 
 ## THE BACKSTORY
