@@ -1,6 +1,6 @@
 # The name is Victoria Tejumola Adeniran, but the game is insights 😉.
 ## Data Storyteller. Business Analyst. Strategic Communicator.
-When most people see a spreadsheet and a grid, all I see is a narrative waiting for a narrator. I am a **Data Analyst** with a heavy lean towards **SQL** and a background in professional**Writing and Communicatiom**. I don't just "run queries" I investigate. I find the "why" behind the "what", and then I use my writing talent to translate those technical whispers into a corporate shout.
+When most people see a spreadsheet and a grid, all I see is a narrative waiting for a narrator. I am a **Data Analyst** with a heavy lean towards **SQL** and a background in professional **Writing and Communication**. I don't just "run queries" I investigate. I find the "why" behind the "what", and then I use my writing talent to translate those technical whispers into a corporate shout.
 
 ## THE BACKSTORY
 If you are reading this, you are catching me at a pivotal moment. For a while, I was the "talented student" waiting for the right spark.. Well, the spark just turned into a bonfire. With my 25th birthday approaching, I have decided to stop being a "potential success" and start being a practical one.
